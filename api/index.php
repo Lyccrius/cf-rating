@@ -8,6 +8,9 @@
 //
 // $Id:$
 
+$user = "";
+$st = "";
+$st1 = "";
 $user = $_GET["user"];
 $st = $_GET["style"];
 $st1 = $_GET["st"];
