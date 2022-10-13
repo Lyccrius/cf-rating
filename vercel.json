@@ -1,0 +1,10 @@
+{
+    "builds": [
+      { "src": "*.php", "use": "@vercel/node" }
+    ],
+    "routes": [
+      { "src": "/", "status": 301, "headers": { "Location": "https://github.com/Lyccrius/cf-rating" } }
+    ],
+    "regions": ["hkg1"]
+  }
+  
