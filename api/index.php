@@ -11,9 +11,13 @@
 $user = "";
 $st = "";
 $st1 = "";
-$user = $_GET["user"];
-$st = $_GET["style"];
-$st1 = $_GET["st"];
+if (isset($_GET["user"])){
+    $user = $_GET["user"];
+}if (isset($_GET["style"])){
+    $st = $_GET["style"];
+}if (isset($_GET["st"])){
+    $st1 = $_GET["st"];
+}
 $badgehd = "Location:https://img.shields.io/badge/";
 set_time_limit(600);
 $mainUrl = "http://codeforces.com/api/user.info?handles=*";
