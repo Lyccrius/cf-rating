@@ -1,9 +1,11 @@
 {
-    "builds": [
-      { "src": "api/*.php", "use": "@vercel/node" }
-    ],
-    "routes": [
-      { "src": "/", "dest": "/api/php"}
-    ]
+    "functions": {
+      "api/index.php": {
+        "runtime": "vercel-php@0.3.1",
+        "excludeFiles": "{test/**}",
+        "memory": 256,
+        "maxDuration": 5
+      }
+    }
   }
   
