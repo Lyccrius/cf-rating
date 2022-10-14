@@ -1,7 +1,7 @@
 # CFRatingColor
 利用Shields.io，实现按颜色显示Codeforces的Rating
 ## 现成的API
-国际惯例，先丢API：[http://cfrating.ihcr.top](http://cfrating.ihcr.top)
+国际惯例，先丢API：[http://cf-rating.lyccrius.site](http://cf-rating.lyccrius.site)
 
 
 ## 使用方法
@@ -11,9 +11,13 @@
 
 
 以下是两个示例：**由于启用了longCache，第一次调用时可能较慢**    
-[https://cfrating.ihcr.top/?user=tourist](https://cfrating.ihcr.top/?user=tourist)    
+```
 ![https://cfrating.ihcr.top/?user=tourist](https://cfrating.ihcr.top/?user=tourist)    
-[https://cfrating.ihcr.top/?user=YangYunFei&style=flat-square](https://cfrating.ihcr.top/?user=YangYunFei&style=flat-square)    
+```
+![https://cfrating.ihcr.top/?user=tourist](https://cfrating.ihcr.top/?user=tourist)    
+```
+![https://cfrating.ihcr.top/?user=YangYunFei&style=flat-square](https://cfrating.ihcr.top/?user=YangYunFei&style=flat-square) 
+```   
 ![https://cfrating.ihcr.top/?user=YangYunFei&style=flat-square](https://cfrating.ihcr.top/?user=YangYunFei&style=flat-square)  
 
 
