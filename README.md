@@ -12,13 +12,13 @@
 
 以下是两个示例：**由于启用了longCache，第一次调用时可能较慢**    
 ```
-![https://cfrating.ihcr.top/?user=tourist](https://cfrating.ihcr.top/?user=tourist)    
+![https://cf-rating.lyccrius.site/?user=tourist](https://cf-rating.lyccrius.site/?user=tourist)    
 ```
-![https://cfrating.ihcr.top/?user=tourist](https://cfrating.ihcr.top/?user=tourist)    
+![https://cf-rating.lyccrius.site/?user=tourist](https://cf-rating.lyccrius.site/?user=tourist)    
 ```
-![https://cfrating.ihcr.top/?user=YangYunFei&style=flat-square](https://cfrating.ihcr.top/?user=YangYunFei&style=flat-square) 
+![https://cf-rating.lyccrius.site/?user=Lyccrius&style=flat-square](https://cf-rating.lyccrius.site/?user=Lyccrius&style=flat-square) 
 ```   
-![https://cfrating.ihcr.top/?user=YangYunFei&style=flat-square](https://cfrating.ihcr.top/?user=YangYunFei&style=flat-square)  
+![https://cf-rating.lyccrius.site/?user=Lyccrius&style=flat-square](https://cf-rating.lyccrius.site/?user=Lyccrius&style=flat-square)  
 
 
 参数如您所见：   
